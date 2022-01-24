@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "extracompression",
+  "version": "${version}",
+  "name": "ExtraCompression",
+  "description": "49049 times better!",
+  "authors": [
+    "nxghtmvrx"
+  ],
+  "contact": {
+    "issues": "https://github.com/nxghtmvrx/ExtraCompression/issues",
+    "sources": "https://github.com/nxghtmvrx/ExtraCompression"
+  },
+  "license": "GPLv3-only",
+  "icon": "assets/extracompression/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nxghtmvrx.extracompression.extracompression"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5",
+    "java": ">=8"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

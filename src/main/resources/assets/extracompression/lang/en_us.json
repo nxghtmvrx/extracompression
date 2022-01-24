@@ -1,0 +1,38 @@
+{
+  "block.extracompression.compressed_dirt1": "Compressed dirt(x1)",
+  "block.extracompression.compressed_dirt2": "Compressed dirt(x2)",
+  "block.extracompression.compressed_dirt3": "Compressed dirt(x3)",
+  "block.extracompression.compressed_dirt4": "Compressed dirt(x4)",
+  "block.extracompression.compressed_dirt5": "Compressed dirt(x5)",
+
+  "block.extracompression.compressed_cobblestone1": "Compressed cobblestone(x1)",
+  "block.extracompression.compressed_cobblestone2": "Compressed cobblestone(x2)",
+  "block.extracompression.compressed_cobblestone3": "Compressed cobblestone(x3)",
+  "block.extracompression.compressed_cobblestone4": "Compressed cobblestone(x4)",
+  "block.extracompression.compressed_cobblestone5": "Compressed cobblestone(x5)",
+
+  "block.extracompression.compressed_gravel1": "Compressed gravel(x1)",
+  "block.extracompression.compressed_gravel2": "Compressed gravel(x2)",
+  "block.extracompression.compressed_gravel3": "Compressed gravel(x3)",
+  "block.extracompression.compressed_gravel4": "Compressed gravel(x4)",
+  "block.extracompression.compressed_gravel5": "Compressed gravel(x5)",
+
+  "block.extracompression.compressed_sand1": "Compressed sand(x1)",
+  "block.extracompression.compressed_sand2": "Compressed sand(x2)",
+  "block.extracompression.compressed_sand3": "Compressed sand(x3)",
+  "block.extracompression.compressed_sand4": "Compressed sand(x4)",
+  "block.extracompression.compressed_sand5": "Compressed sand(x5)",
+
+  "block.extracompression.compressed_netherrack1": "Compressed netherrack(x1)",
+  "block.extracompression.compressed_netherrack2": "Compressed netherrack(x2)",
+  "block.extracompression.compressed_netherrack3": "Compressed netherrack(x3)",
+  "block.extracompression.compressed_netherrack4": "Compressed netherrack(x4)",
+  "block.extracompression.compressed_netherrack5": "Compressed netherrack(x5)",
+
+  "block.extracompression.compressed_endstone1": "Compressed endstone(x1)",
+  "block.extracompression.compressed_endstone2": "Compressed endstone(x2)",
+  "block.extracompression.compressed_endstone3": "Compressed endstone(x3)",
+  "block.extracompression.compressed_endstone4": "Compressed endstone(x4)",
+  "block.extracompression.compressed_endstone5": "Compressed endstone(x5)"
+
+}

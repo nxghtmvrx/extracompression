@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "extracompression:compressed_netherrack4"
+    }
+  },
+  "result": {
+    "item": "extracompression:compressed_netherrack5",
+    "count": 1
+  }
+}

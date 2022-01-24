@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "extracompression:compressed_endstone2"
+    }
+  },
+  "result": {
+    "item": "extracompression:compressed_endstone3",
+    "count": 1
+  }
+}

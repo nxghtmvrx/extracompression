@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "extracompression:compressed_dirt4"
+    }
+  },
+  "result": {
+    "item": "extracompression:compressed_dirt5",
+    "count": 1
+  }
+}

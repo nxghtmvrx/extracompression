@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "extracompression:compressed_cobblestone4"
+    }
+  },
+  "result": {
+    "item": "extracompression:compressed_cobblestone5",
+    "count": 1
+  }
+}

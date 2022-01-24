@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "extracompression:compressed_sand1"
+    }
+  },
+  "result": {
+    "item": "extracompression:compressed_sand2",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extracompression:compressed_gravel5"
+    }
+  ],
+  "result": {
+    "item": "extracompression:compressed_gravel4",
+    "count": 9
+  }
+}

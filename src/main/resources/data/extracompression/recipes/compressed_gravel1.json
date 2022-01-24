@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "extracompression:compressed_gravel1",
+    "count": 1
+  }
+}
